@@ -15,22 +15,15 @@
   <img alt="GitHub contribution heatmap, last year" src="./contrib-heatmap-dark.svg" width="860">
 </picture>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg">
+  <img alt="Minh Tran — about" src="./about-dark.svg" width="860">
+</picture>
+
 </div>
-
-<h3><code>m1trn@github ~ $ cat about.md</code></h3>
-
-Currently, I’m studying computer science and math at MIT. I continue to
-branch out and explore how advances in ML, computing, and artificial
-intelligence are changing the way we create problems. And I’ve only gotten
-started.
-
-I consistently aim to create meaningful impact by applying analytical
-reasoning and critical thinking while remaining open to diverse perspectives.
-I'm curious about how ML & AI can improve productivity, globalize social
-connections, and determine what comes next. I'm always thinking, hence always
-iterating, building, and taking risks.
-
-Reach out; I'd be more than happy to connect.
 
 <h3><code>m1trn@github ~ $ ls stack/</code></h3>
 
@@ -44,10 +37,15 @@ Reach out; I'd be more than happy to connect.
 
 <h3><code>m1trn@github ~ $ ls projects/</code></h3>
 
-<table>
-<tr><td><b><a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics">Predictive Model of Single-Cell Genomics</a></b><br>Bilinear perturbation model with PCA-space residual correction to predict single-cell gene expression — Broad Obesity Challenge (CrunchDAO)<br><sub>Python · Jupyter · NumPy · scikit-learn</sub></td></tr>
-<tr><td><b><a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe">Java Tic-Tac-Toe</a></b><br>Two-player Swing desktop game — JFrame/JButton grid, turn logic, win/draw detection<br><sub>Java · Swing · AWT</sub></td></tr>
-</table>
+<table><tr><td><a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg">
+  <img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416">
+</picture></a></td><td><a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg">
+  <img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416">
+</picture></a></td></tr></table>
 
 <h3><code>m1trn@github ~ $ git log</code></h3>
 
@@ -71,7 +69,21 @@ Reach out; I'd be more than happy to connect.
 
 <h3><code>m1trn@github ~ $ cat contact.md</code></h3>
 
-[website](https://minhtrn.com) · [linkedin](https://www.linkedin.com/in/minhntrn/) · [github](https://github.com/m1trn)
+<div align="center">
+<a href="https://minhtrn.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contact-website-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contact-website-light.svg">
+  <img alt="minhtrn.com" src="./contact-website-dark.svg" width="104">
+</picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/minhntrn/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contact-linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contact-linkedin-light.svg">
+  <img alt="linkedin" src="./contact-linkedin-dark.svg" width="104">
+</picture></a>&nbsp;&nbsp;<a href="https://github.com/m1trn"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contact-github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contact-github-light.svg">
+  <img alt="github" src="./contact-github-dark.svg" width="104">
+</picture></a>
+</div>
 
 <br>
 
