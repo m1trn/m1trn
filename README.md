@@ -19,9 +19,18 @@
 
 <h3><code>m1trn@github ~ $ cat about.md</code></h3>
 
-CS + Math undergrad at MIT. Undergraduate researcher in machine learning +
-computational biology at MIT CSAIL. SDE intern at AWS, summer 2026. Software
-engineer on the Blind Assistive Team, MIT Assistive Technology Club. Break Through Tech AI Fellow.
+Currently, I’m studying computer science and math at MIT. I continue to
+branch out and explore how advances in ML, computing, and artificial
+intelligence are changing the way we create problems. And I’ve only gotten
+started.
+
+I consistently aim to create meaningful impact by applying analytical
+reasoning and critical thinking while remaining open to diverse perspectives.
+I'm curious about how ML & AI can improve productivity, globalize social
+connections, and determine what comes next. I'm always thinking, hence always
+iterating, building, and taking risks.
+
+Reach out; I'd be more than happy to connect.
 
 <h3><code>m1trn@github ~ $ ls stack/</code></h3>
 
