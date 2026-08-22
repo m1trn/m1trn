@@ -15,17 +15,17 @@
   <img alt="GitHub contribution heatmap, last year" src="./contrib-heatmap-dark.svg" width="860">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg">
-  <img alt="Minh Tran — about" src="./about-dark.svg" width="860">
-</picture>
-
 </div>
 
-<h3><code>m1trn@github ~ $ ls stack/</code></h3>
+### About
+
+Currently, I’m studying computer science and math at MIT. I continue to branch out and explore how advances in ML, computing, and artificial intelligence are changing the way we create problems. And I’ve only gotten started.
+
+I consistently aim to create meaningful impact by applying analytical reasoning and critical thinking while remaining open to diverse perspectives. I'm curious about how ML & AI can improve productivity, globalize social connections, and determine what comes next. I'm always thinking, hence always iterating, building, and taking risks.
+
+Reach out; I'd be more than happy to connect.
+
+### Stack
 
 **Languages**&nbsp; <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square" />
 
@@ -35,19 +35,14 @@
 
 **Cloud & Tools**&nbsp; <img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" />
 
-<h3><code>m1trn@github ~ $ ls projects/</code></h3>
+### Projects
 
-<table><tr><td><a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg">
-  <img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416">
-</picture></a></td><td><a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg">
-  <img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416">
-</picture></a></td></tr></table>
+| Project | Description | Stack | ★ |
+|---|---|---|---|
+| [Predictive Model of Single-Cell Genomics](https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics) | Bilinear perturbation model with PCA-space residual correction to predict single-cell gene expression — Broad Obesity Challenge (CrunchDAO) | `python` `jupyter` `numpy` `scikit-learn` | 0 |
+| [Java Tic-Tac-Toe](https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe) | Two-player Swing desktop game — JFrame/JButton grid, turn logic, win/draw detection | `java` `swing` `awt` | 0 |
 
-<h3><code>m1trn@github ~ $ git log</code></h3>
+### Activity
 
 <div align="center">
 
@@ -57,34 +52,10 @@
   <img alt="Recent GitHub activity" src="./activity-dark.svg" width="860">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./languages-light.svg">
-  <img alt="Top languages by bytes" src="./languages-dark.svg" width="860">
-</picture>
-
 </div>
 
-<h3><code>m1trn@github ~ $ cat contact.md</code></h3>
+### Contact
 
-<div align="center">
-<a href="https://minhtrn.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contact-website-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contact-website-light.svg">
-  <img alt="minhtrn.com" src="./contact-website-dark.svg" width="104">
-</picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/minhntrn/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contact-linkedin-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contact-linkedin-light.svg">
-  <img alt="linkedin" src="./contact-linkedin-dark.svg" width="104">
-</picture></a>&nbsp;&nbsp;<a href="https://github.com/m1trn"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contact-github-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contact-github-light.svg">
-  <img alt="github" src="./contact-github-dark.svg" width="104">
-</picture></a>
-</div>
-
-<br>
-
-<div align="center"><sub>generated from <code>profile.yaml</code> · refreshed daily by GitHub Actions · 2026-08-22</sub></div>
+[<img alt="minhtrn.com" src="https://img.shields.io/badge/minhtrn.com-0d1117?style=flat-square" />](https://minhtrn.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/minhntrn/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />](https://github.com/m1trn)
