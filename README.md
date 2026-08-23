@@ -57,9 +57,3 @@ Reach out; I'd be more than happy to connect.
 </picture>
 
 </div>
-
-### Contact
-
-[<img alt="minhtrn.com" src="https://img.shields.io/badge/minhtrn.com-0d1117?style=flat-square" />](https://minhtrn.com)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/minhntrn/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />](https://github.com/m1trn)
