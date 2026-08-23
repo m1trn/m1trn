@@ -27,20 +27,29 @@ Reach out; I'd be more than happy to connect.
 
 ### Stack
 
-**Languages**&nbsp; <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square" />
-
-**ML / Data**&nbsp; <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" />
-
-**Web**&nbsp; <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-**Cloud & Tools**&nbsp; <img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" />
-
+<table>
+  <tr>
+    <td valign="top" width="50%"><b>Languages</b><br><br><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square" /></td>
+    <td valign="top" width="50%"><b>ML / Data</b><br><br><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%"><b>Web</b><br><br><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" /></td>
+    <td valign="top" width="50%"><b>Cloud &amp; Tools</b><br><br><img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" /></td>
+  </tr>
+</table>
 ### Projects
 
-| Project | Description | Stack | ★ |
-|---|---|---|---|
-| [Predictive Model of Single-Cell Genomics](https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics) | Bilinear perturbation model with PCA-space residual correction to predict single-cell gene expression — Broad Obesity Challenge (CrunchDAO) | `python` `jupyter` `numpy` `scikit-learn` | 0 |
-| [Java Tic-Tac-Toe](https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe) | Two-player Swing desktop game — JFrame/JButton grid, turn logic, win/draw detection | `java` `swing` `awt` | 0 |
+<table>
+<tr><td><a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg">
+  <img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416">
+</picture></a></td><td><a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg">
+  <img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416">
+</picture></a></td></tr>
+</table>
 
 ### Activity
 
