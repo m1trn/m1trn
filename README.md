@@ -27,46 +27,23 @@ Reach out; I'd be more than happy to connect.
 
 ### Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./label-languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./label-languages-light.svg">
-  <img alt="Languages" src="./label-languages-dark.svg" width="84">
-</picture><br><br><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square" /></td>
-    <td valign="top" width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./label-ml-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./label-ml-light.svg">
-  <img alt="ML / Data" src="./label-ml-dark.svg" width="84">
-</picture><br><br><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./label-web-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./label-web-light.svg">
-  <img alt="Web" src="./label-web-dark.svg" width="39">
-</picture><br><br><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" /></td>
-    <td valign="top" width="50%"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./label-cloud_tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./label-cloud_tools-light.svg">
-  <img alt="Cloud &amp; Tools" src="./label-cloud_tools-dark.svg" width="115">
-</picture><br><br><img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" /></td>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./label-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./label-languages-light.svg"><img alt="Languages" src="./label-languages-dark.svg" width="84"></picture><br>
+<img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./label-ml-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./label-ml-light.svg"><img alt="ML / Data" src="./label-ml-dark.svg" width="84"></picture><br>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./label-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./label-web-light.svg"><img alt="Web" src="./label-web-dark.svg" width="39"></picture><br>
+<img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./label-cloud_tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./label-cloud_tools-light.svg"><img alt="Cloud &amp; Tools" src="./label-cloud_tools-dark.svg" width="115"></picture><br>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" />
 
 ### Projects
 
 <p align="center">
-<a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg">
-  <img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416">
-</picture></a>
-<a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg">
-  <img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416">
-</picture></a>
+<a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg"><img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416"></picture></a>
+<a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg"><img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416"></picture></a>
 </p>
 
 ### Activity
