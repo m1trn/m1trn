@@ -37,6 +37,7 @@ Reach out; I'd be more than happy to connect.
     <td valign="top" width="50%"><b>Cloud &amp; Tools</b><br><br><img alt="AWS" src="https://img.shields.io/badge/AWS-0d1117?style=flat-square" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white" /></td>
   </tr>
 </table>
+
 ### Projects
 
 <table>
