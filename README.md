@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
-  <img alt="Minh Tran — cs + math @ mit | swe intern @ aws" src="./hero-dark.svg" width="860">
+  <img alt="Minh Tran — cs + math @ mit | swe intern @ aws" src="./hero-dark.svg" width="100%">
 </picture>
 
 <br>
@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./contrib-heatmap-light.svg">
-  <img alt="GitHub contribution heatmap, last year" src="./contrib-heatmap-dark.svg" width="860">
+  <img alt="GitHub contribution heatmap, last year" src="./contrib-heatmap-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -28,17 +28,17 @@ Reach out; I'd be more than happy to connect.
 ### Stack
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-languages-light.svg"><img alt="Languages" src="./stack-languages-dark.svg" width="416"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-ml-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-ml-light.svg"><img alt="ML / Data" src="./stack-ml-dark.svg" width="416"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-web-light.svg"><img alt="Web" src="./stack-web-dark.svg" width="416"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-cloud_tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-cloud_tools-light.svg"><img alt="Cloud &amp; Tools" src="./stack-cloud_tools-dark.svg" width="416"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-languages-light.svg"><img alt="Languages" src="./stack-languages-dark.svg" width="48%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-ml-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-ml-light.svg"><img alt="ML / Data" src="./stack-ml-dark.svg" width="48%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-web-light.svg"><img alt="Web" src="./stack-web-dark.svg" width="48%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./stack-cloud_tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./stack-cloud_tools-light.svg"><img alt="Cloud &amp; Tools" src="./stack-cloud_tools-dark.svg" width="48%"></picture>
 </p>
 
 ### Projects
 
 <p align="center">
-<a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg"><img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="416"></picture></a>
-<a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg"><img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="416"></picture></a>
+<a href="https://github.com/m1trn/Predictive-Model-of-Single-Celled-Genomics"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-predictive-model-of-single-celled-genomics-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-predictive-model-of-single-celled-genomics-light.svg"><img alt="Predictive Model of Single-Cell Genomics" src="./project-predictive-model-of-single-celled-genomics-dark.svg" width="48%"></picture></a>
+<a href="https://github.com/m1trn/Java-UI-UX-Tic-Tac-Toe"><picture><source media="(prefers-color-scheme: dark)" srcset="./project-java-ui-ux-tic-tac-toe-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-java-ui-ux-tic-tac-toe-light.svg"><img alt="Java Tic-Tac-Toe" src="./project-java-ui-ux-tic-tac-toe-dark.svg" width="48%"></picture></a>
 </p>
 
 ### Activity
@@ -48,7 +48,7 @@ Reach out; I'd be more than happy to connect.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./activity-light.svg">
-  <img alt="Recent GitHub activity" src="./activity-dark.svg" width="860">
+  <img alt="Recent GitHub activity" src="./activity-dark.svg" width="100%">
 </picture>
 
 </div>
